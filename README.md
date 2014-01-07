@@ -29,3 +29,8 @@ story book.
 * Add more pages and actions so there's more depth
 * Allow undoing an action
 * Display the path through the story when you reach an end page
+
+### Super bonus
+
+* Output the precise position in the story to a text file and restore
+  state from that file when re-loading the game 
