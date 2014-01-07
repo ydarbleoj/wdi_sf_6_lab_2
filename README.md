@@ -5,6 +5,8 @@ of making scrambled eggs. Your method works for you sometimes. You've
 never tried Gordon's, but it seems pretty legit. You can make your own,
 follow Gordon's recipe, or even call a friend.
 
+(Gordon Ramsey's Scrambled Eggs)[http://www.youtube.com/watch?v=PUP7U5vTMM0]
+
 ### Instructions
 Using story.txt as the file containing the story, implement a
 choose-your-own-adventure style game. 
