@@ -1,0 +1,11 @@
+~p1
+You're a caveman/woman sitting in the cave with your cavemen friends. It's night time and cold. There's a full moon out. The wolves are on the prowl. You are hungry. Your leader is getting feisty that there's no food to eat. You and your buddy are the only ones who know how to hunt. Your buddy is good at hunting, but you are better at starting a fire.
+
+What do you do?
+
+~p1:c1:p2
+Tell your buddy to go hunt for a wild boar.
+~p1:c1:p3
+Go out and hunt for the boar.
+~p1:c1:p4
+Start a fire.
