@@ -22,3 +22,9 @@ story book.
 * Prompt the user to make one of the 3 choices in the file
 * Output the end result of picking a specific choice
 * Prompt the user to restart the game after the destination is reached
+
+### As bonuses
+
+* Add more pages and actions so there's more depth
+* Allow undoing an action
+* Display the path through the story when you reach an end page
