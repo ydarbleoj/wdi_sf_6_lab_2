@@ -1,11 +1,23 @@
 ~p1
-You're a caveman/woman sitting in the cave with your cavemen friends. It's night time and cold. There's a full moon out. The wolves are on the prowl. You are hungry. Your leader is getting feisty that there's no food to eat. You and your buddy are the only ones who know how to hunt. Your buddy is good at hunting, but you are better at starting a fire.
+You want to make scrambled eggs this morning.
 
-What do you do?
+Do you...
 
 ~p1:c1:p2
-Tell your buddy to go hunt for a wild boar.
+Use Gordon Ramsey's recipe?
 ~p1:c1:p3
-Go out and hunt for the boar.
+Whip up your own thing?
 ~p1:c1:p4
-Start a fire.
+Call your friend for a recipe?
+
+~p2
+Success! The eggs are super fluffy and delicious. You are full and ready
+for the day.
+
+~p3
+You are not hungry this morning, but your taste buds are crying for better.
+
+~p4
+You got tied up in a conversation with your friend arguing about the
+merits of your recipe vs Gordon's. As a result you spent $15 on a lame 
+breakfast at the café, because you had no time to cook.
