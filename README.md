@@ -13,7 +13,7 @@ choose-your-own-adventure style game.
 * `~p1`, `~p2`, `~p3`, and `~p4` denote the pages of the
 story book.  
 
-* `~p1:c1:p2`, `~p1:c1:p3`, `~p1:c1:p4` denote the following format:
+* `~p1:c1:p2`, `~p1:c2:p3`, `~p1:c3:p4` denote the following format:
 
 `~origin-page:choice-id:destination-page`
 
