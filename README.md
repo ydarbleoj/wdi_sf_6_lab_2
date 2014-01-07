@@ -1,0 +1,24 @@
+## Choose your own eggy adventure
+
+So, you are about to make breakfast. You have seen Gordon Ramsey's method
+of making scrambled eggs. Your method works for you sometimes. You've
+never tried Gordon's, but it seems pretty legit. You can make your own,
+follow Gordon's recipe, or even call a friend.
+
+### Instructions
+Using story.txt as the file containing the story, implement a
+choose-your-own-adventure style game. 
+
+#### In story.txt:
+* `~p1`, `~p2`, `~p3`, and `~p4` denote the pages of the
+story book.  
+
+* `~p1:c1:p2`, `~p1:c1:p3`, `~p1:c1:p4` denote the following format:
+
+`~origin-page:choice-id:destination-page`
+
+### The game should:
+
+* Prompt the user to make one of the 3 choices in the file
+* Output the end result of picking a specific choice
+* Prompt the user to restart the game after the destination is reached
