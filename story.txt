@@ -5,9 +5,9 @@ Do you...
 
 ~p1:c1:p2
 Use Gordon Ramsey's recipe?
-~p1:c1:p3
+~p1:c2:p3
 Whip up your own thing?
-~p1:c1:p4
+~p1:c3:p4
 Call your friend for a recipe?
 
 ~p2
